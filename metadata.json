@@ -1,0 +1,5 @@
+{
+  "name": "DevPortfolio IDE",
+  "description": "A developer portfolio styled as a fully functional Integrated Development Environment (IDE) with file navigation, syntax highlighting themes, and interactive components.",
+  "requestFramePermissions": []
+}
